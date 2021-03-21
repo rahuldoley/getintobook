@@ -1,0 +1,11 @@
+.w-100 {
+    width: 100%;
+    padding: 100px;
+    margin-top: -50px;
+}
+
+.poster {
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
